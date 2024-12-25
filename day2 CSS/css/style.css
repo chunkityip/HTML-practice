@@ -9,14 +9,13 @@ img {
     border: 10px solid green;
 }
 
-h1 {
+h1, h2 {
     border: 5px dashed pink;
 }
 
-h1 {
-    border: 5px dashed red;
+#myid {
+    color: purple;
 }
-
 
 blockquote {
     font-family: 'Times New Roman', Times, serif;
