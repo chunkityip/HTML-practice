@@ -10,8 +10,13 @@ img {
 }
 
 h1 {
-    border: 5px dotted pink;
+    border: 5px dashed pink;
 }
+
+h1 {
+    border: 5px dashed red;
+}
+
 
 blockquote {
     font-family: 'Times New Roman', Times, serif;
@@ -28,5 +33,13 @@ cite{
     font-weight: bold;
     font-size: 1.3rem;
     color: red;
+    line-height: 10;
 }
+
+a:hover {
+    color: orange;
+    font-size: 2rem;
+}
+
+
 
