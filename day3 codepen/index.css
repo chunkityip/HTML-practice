@@ -1,0 +1,10 @@
+div {
+    border: 5px blue solid;
+    margin-bottom: -2rem;
+    background-color: lightblue;
+}
+
+.box1 {
+    border-color: orange;
+    background-color: #ffcc00;
+}
